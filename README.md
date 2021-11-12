@@ -1,2 +1,2 @@
 # AddressBookTemplate
-Creating an addressbook using Bootstrap.
+Creating the frontend of an addressbook using Bootstrap.
